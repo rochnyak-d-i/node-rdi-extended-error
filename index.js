@@ -3,8 +3,8 @@ class ExtendedError extends Error {
   /**
    * конструктор
    *
-   * @param {String}  message   Сообщение
-   * @param {Boolean} stopTrace Флаг остановки трассировки
+   * @param {String}   message   Сообщение
+   * @param {Function} stopTrace Конструктор
    *
    * @return {ExtendedError}
    */
