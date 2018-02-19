@@ -1,0 +1,22 @@
+{
+  "name": "rdi-extended-error",
+  "version": "1.0.0",
+  "description": "extended error",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "keywords": [
+    "error"
+  ],
+  "author": "Rochnyak Dmitriy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rochnyak-d-i/node-rdi-extended-error.git"
+  },
+  "homepage": "https://github.com/rochnyak-d-i/node-rdi-extended-error",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
